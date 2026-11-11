@@ -93,5 +93,5 @@ Ownership uses `Ownable2Step`.
 
 ## Time spent and AI tools
 
-- Time spent: 3.5 hrs approx
+- Time spent: 2.5 hrs approx
 - AI tools: used Claude opus5.5, used to draft tests, scripts and docs. I've done 70% manual and 30% AI.
